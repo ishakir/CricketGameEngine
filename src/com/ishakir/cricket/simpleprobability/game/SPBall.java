@@ -1,7 +1,6 @@
 package com.ishakir.cricket.simpleprobability.game;
 
 import com.ishakir.cricket.engine.ball.Ball;
-import com.ishakir.cricket.engine.ball.wicket.*;
 
 import java.util.List;
 import java.util.Optional;

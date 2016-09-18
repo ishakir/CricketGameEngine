@@ -3,7 +3,6 @@ package com.ishakir.cricket.engine.match;
 import com.ishakir.cricket.engine.ball.Ball;
 import com.ishakir.cricket.engine.innings.Innings;
 import com.ishakir.cricket.engine.innings.InningsFactory;
-import com.ishakir.cricket.engine.over.Over;
 import com.ishakir.cricket.engine.players.Batsman;
 import com.ishakir.cricket.engine.players.Bowler;
 import com.ishakir.cricket.engine.players.Player;
